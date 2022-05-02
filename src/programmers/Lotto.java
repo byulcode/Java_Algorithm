@@ -3,7 +3,7 @@ package programmers;
 import java.util.Arrays;
 import java.util.Collections;
 
-//로또의 최고 순위와 최저 순위
+//로또의 최고 순위와 최저 순위g
 public class Lotto {
 	
 	class Solution {
